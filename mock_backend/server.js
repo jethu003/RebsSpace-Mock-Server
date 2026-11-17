@@ -11,7 +11,7 @@ const app = express();
 // 1. CONFIGURATION
 // ==========================================
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 const COMPANY_TIMEZONE = 'Asia/Kolkata';
 const OFFICE_RADIUS_METERS = 200;
