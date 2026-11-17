@@ -100,7 +100,7 @@ function saveDatabase() {
 }
 
 // ==========================================
-// 3. HELPER FUNCTIONSs
+// 3. HELPER FUNCTIONSss
 // ==========================================
 
 function getCompanyDate(date) {
